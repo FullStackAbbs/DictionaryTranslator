@@ -1,0 +1,56 @@
+*{
+  box-sizing: border-box;
+}
+
+
+html{
+  font-size: 10px;
+  background-color: #F2C078;
+  font-family: 'Fjalla One', sans-serif;
+   -webkit-text-stroke: 1px black;
+
+}
+
+h1{
+  display: block;
+  float:left;
+  width: 60%;
+  margin-left:20%;
+  text-align: center;
+  color: #7EBC89;
+  font-family: 'Fjalla One', sans-serif;
+   -webkit-text-stroke: .2px black;
+
+  font-size: 4rem;
+}
+
+input,button{
+  display: block;
+  float:left;
+  width: 60%;
+  margin-left:20%;
+  font-size: 2rem;
+  margin-top:3%;
+  font-family: 'Fjalla One', sans-serif;
+
+}
+h2,h3,h4,p{
+  display:block;
+  float:left;
+  width: 100%;
+  /* border: 2px solid black; */
+  text-align: center;
+  font-size: 3rem;
+  color: #7EBC89;
+  margin-top:1%;
+  font-family: 'Fjalla One', sans-serif;
+  -webkit-text-stroke: .1px black;
+  letter-spacing: .1rem;
+
+
+
+}
+h2{
+  margin-top:2%;
+  font-family: 'Fjalla One', sans-serif;
+}
